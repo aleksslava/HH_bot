@@ -2,11 +2,11 @@ import requests
 from requests_oauthlib import OAuth2Session
 import telebot
 
-client_id = 'OG7PSK82HJVOKILRPCAL33JP83746S4V16V891EJGG72HS0RPPBI2GL2OTGJ3TDO'
-client_secret = 'M5GHCB3T5B6S52VGJGQ30LTDMDMOHOI2HMP0CH35R2FHJK7T562J89SDM76A8U6E'
-hh_token = 'OFS49QN68T2UJLG4THTKE5IT49IDMSQKB52C5N7NV6LTFVQ2RG8TVHQDL1A11004'
+client_id = 
+client_secret = 
+hh_token = 
 
-tg_token = '5683462995:AAFEfUkWKOBZvkCPOYtrkC1q2UvwtqvBgN8'
+tg_token = 
 
 bot = telebot.TeleBot(tg_token)
 params = {
